@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Generics
+﻿namespace Generics.Module_1
 {
     public class Employee
     {
